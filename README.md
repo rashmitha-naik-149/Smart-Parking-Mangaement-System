@@ -180,4 +180,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-GitHub: YOUR_GITHUB_PROFILE_URL
+GitHub: https://github.com/rashmitha-naik-149/Smart-Parking-Mangaement-System.git
